@@ -3,11 +3,13 @@ It's an app in react but it doesn't have anything, it's just the folders ready t
 
 # Steps to follow to avoid errors. 😬
 
-1. clone the repository
+1. Clone the repository
 
 https://github.com/yeferfer/React-Web-Clea 
 
 ![image](https://user-images.githubusercontent.com/48194337/158044934-9ff83ed6-806a-4306-976b-882204f7c95a.png)
+
+![image](https://user-images.githubusercontent.com/48194337/158045090-cd02bb73-4d99-4969-a233-2001f05c37bc.png)
 
 2. In the conmmand console write 
    * npm install
